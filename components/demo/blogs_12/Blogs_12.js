@@ -10,7 +10,7 @@ const Blogs_12 = ({ blogs }) => {
     <Wrapper>
       <section className="blogs">
         <div className="section-title">
-          <h2>Static blogs -- Jimmy , 212410012</h2>
+          <h2> Blogs from Supabase-- Jimmy , 212410012</h2>
         </div>
         <div className="blogs-center">
           {blogs?.map((blog) => {
